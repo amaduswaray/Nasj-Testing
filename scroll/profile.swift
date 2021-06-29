@@ -23,13 +23,8 @@ struct profile: View {
                 Text("Fornavn")
                 Text("Etternavn")
             }
-            
-            
-            
-            
         }
-        }
-        
+    }
 }
 
 struct profile_Previews: PreviewProvider {
