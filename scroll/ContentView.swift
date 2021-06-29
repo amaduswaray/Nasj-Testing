@@ -10,6 +10,10 @@ var boxes:[Box] = [
     Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
     Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
     Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
+    Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
+    Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
+    Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
+    Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party"),
     Box(id: 0, user: "bruker",  title: "Nasj", imageUrl: "party")
 
 ]
