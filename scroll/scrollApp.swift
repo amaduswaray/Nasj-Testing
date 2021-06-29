@@ -11,7 +11,15 @@ import SwiftUI
 struct scrollApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           MenuView()
         }
     }
 }
+
+
+struct scrollApp_Previews: PreviewProvider {
+    static var previews: some View {
+            MenuView()
+    }
+}
+
