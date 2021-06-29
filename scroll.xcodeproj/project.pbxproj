@@ -10,6 +10,7 @@
 		5014519C25A709A70081B403 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5014519B25A709A70081B403 /* Menu.swift */; };
 		5018D39C25B06F4B003D8CA9 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5018D39B25B06F4B003D8CA9 /* Storyboard.storyboard */; };
 		5018D39F25B06FB6003D8CA9 /* klasse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5018D39E25B06FB6003D8CA9 /* klasse.swift */; };
+		50986F40268B33B2007466AF /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50986F3F268B33B2007466AF /* Chat.swift */; };
 		50C131EB25A63B3C00427279 /* scrollApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C131EA25A63B3C00427279 /* scrollApp.swift */; };
 		50C131ED25A63B3C00427279 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C131EC25A63B3C00427279 /* ContentView.swift */; };
 		50C131EF25A63B4000427279 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50C131EE25A63B4000427279 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 		5014519B25A709A70081B403 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		5018D39B25B06F4B003D8CA9 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		5018D39E25B06FB6003D8CA9 /* klasse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = klasse.swift; sourceTree = "<group>"; };
+		50986F3F268B33B2007466AF /* Chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
 		50C131E725A63B3C00427279 /* scroll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scroll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50C131EA25A63B3C00427279 /* scrollApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scrollApp.swift; sourceTree = "<group>"; };
 		50C131EC25A63B3C00427279 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				5018D39B25B06F4B003D8CA9 /* Storyboard.storyboard */,
 				5018D39E25B06FB6003D8CA9 /* klasse.swift */,
 				5014519B25A709A70081B403 /* Menu.swift */,
+				50986F3F268B33B2007466AF /* Chat.swift */,
 				50C131EE25A63B4000427279 /* Assets.xcassets */,
 				50C131F325A63B4100427279 /* Info.plist */,
 				50C131F025A63B4100427279 /* Preview Content */,
@@ -156,6 +159,7 @@
 			files = (
 				50C131ED25A63B3C00427279 /* ContentView.swift in Sources */,
 				50C131EB25A63B3C00427279 /* scrollApp.swift in Sources */,
+				50986F40268B33B2007466AF /* Chat.swift in Sources */,
 				5018D39F25B06FB6003D8CA9 /* klasse.swift in Sources */,
 				5014519C25A709A70081B403 /* Menu.swift in Sources */,
 				50D9963E25ACD96600C75670 /* profile.swift in Sources */,
