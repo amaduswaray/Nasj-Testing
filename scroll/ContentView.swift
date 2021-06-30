@@ -35,8 +35,8 @@ struct ContentView: View {
         NavigationView{
             ScrollView{
                 VStack{
-                    ForEach(boxes) { Box in
-                        BoxView(box : Box).cornerRadius(12)
+                    ForEach(boxes) {Box in
+                        BoxView(box : Box)
                     }
                 }
             }
@@ -51,7 +51,7 @@ struct BoxView: View {
     
     var body: some View {
          
-            NavigationLink(destination: TestView()){
+        NavigationLink(destination: TestView(navn : box.imageUrl)){
                 ZStack{
                     Image(box.imageUrl)
                         .resizable()

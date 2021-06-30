@@ -8,11 +8,12 @@
 import Foundation
 import SwiftUI
 
+
 struct MenuView: View{
     var body: some View{
         TabView{
             
-            Text("Chat").tabItem {
+            Chat().tabItem {
                 VStack{
                     Image(systemName: "message")
                     Text("Chat")

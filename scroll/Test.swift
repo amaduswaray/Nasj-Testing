@@ -11,9 +11,10 @@ import SwiftUI
 
 struct TestView: View{
     
+    var navn : String
+    
     var body: some View{
-        Text("hei")
-        
+        Text(navn)
     }
     
 }

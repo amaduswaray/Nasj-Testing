@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct scrollApp: App {
+struct App: App {
     var body: some Scene {
         WindowGroup {
            MenuView()
@@ -17,7 +17,7 @@ struct scrollApp: App {
 }
 
 
-struct scrollApp_Previews: PreviewProvider {
+struct App_Previews: PreviewProvider {
     static var previews: some View {
             MenuView()
     }
